@@ -1,0 +1,12 @@
+{
+    "name": "vendor/autoload.php",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\AutoloadPhp\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.1"
+    }
+}

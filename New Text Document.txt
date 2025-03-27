@@ -1,0 +1,11 @@
+Giảng viên:
+- Thêm danh sách sinh viên từ file excel có sẵn và lưu trong hệ thống
+- Thêm, sửa, xóa khóa học
+- Thêm sinh viên đã có trong hệ thông vào 1 khóa học bất kì
+- Xem được sinh viên mình vừa thêm vào khóa học
+- Xem thông tin và chỉnh sửa trạng thái nộp thực tập (chờ duyệt, chấp nhận, từ chối)
+
+Sinh viên:
+- Đăng nhập bằng MSSV được cấp mặc định trong file excel đã nhập vào hệ thống, dùng cho tài khoản và mật khẩu
+- Sinh viên xem khóa học được giảng viên thêm vào
+- Sinh viên nộp đăng kí thực tập và xem lại thông tin mình đã đăng kí
